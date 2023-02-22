@@ -1,0 +1,14 @@
+.nav-container {
+  background-color: var(--charcoal);
+}
+
+.navlink {
+  display: inline-block;
+  margin-left: 1rem;
+}
+
+.navlist {
+  list-style-type: none;
+  height: 3rem;
+  margin-bottom: 0;
+}
